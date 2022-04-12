@@ -19,10 +19,11 @@ The original analysis showed overall passing reading, passing math and passing r
 Based on the school type and school size, the updated analysis more accurately reflects what the charter and medium sized schools' performance is within the district. 
   - See scores based on school type here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/Scores%20School%20Type.png
   - See scores based on school size here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Size.png 
+
 Based on school spending, the performace is lower for schools due to the larger district school's performance bringing down the performance percentages.  
   - See score based on school spending here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/Scores%20by%20Spending%20Summary.png
   - See school summary with spending here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/School%20Summary%20with%20Spending%20per%20Student.png
-  - See top schools (charter) and bottom schools (district), here,
+  - See top schools (charter) and bottom schools (district), here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/High%20Low%20Schools.png
 
 - High School to High School Comparison -
 The overall passing percentages among all 15 high schools are relatively in the 90% range. Prior to the changes Thomas High School's overall passing percentage was in the 60%. 
@@ -31,4 +32,4 @@ The overall passing percentages among all 15 high schools are relatively in the 
 
 # Summary
 
-In conclusion, removing the tainted Thomas high school testing scores for math and reading provides a more accurate picture for the school board to make decisions on spending and the allocation of resources. Thomas high school's performance without the ninth grade scores is in line with other district schools based on type and size, as well as relative to the other high school's performance in the district. 
+In conclusion, removing the tainted Thomas high school testing scores for math and reading provides a more accurate picture for the school board to make decisions on spending and the allocation of resources. Thomas high school's performance without the ninth grade scores is in line with other charter schools based on type and size. Thomas high school's performance is high relattive to it's spending bracket and budget. 
