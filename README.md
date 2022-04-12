@@ -1,4 +1,4 @@
-# School_District_Analysis
+School District Analysis
 # Overview of the School District Analysis
 
 The school board requested to update the school district analysis on its 15 high schools to include modified teasting scores for Thomas High School (THS) ninth grade students. This is due to suspected score fraud in the original school district analysis for Thomas High School's ninth grade reading and math scores. The analysis removed the scores for ninth grade THS students and recast the average math, average reading, percentage passing for reading and math as well as overall passing percentages. The findings are as follows.
@@ -32,4 +32,4 @@ The overall passing percentages among all 15 high schools are relatively in the 
 
 # Summary
 
-In conclusion, removing the tainted Thomas high school testing scores for math and reading provides a more accurate picture for the school board to make decisions on spending and the allocation of resources. Thomas high school's performance without the ninth grade scores is in line with other charter schools based on type and size. Thomas high school's performance is high relattive to it's spending bracket and budget. 
+In conclusion, removing the tainted Thomas high school testing scores for math and reading provides a more accurate picture for the school board to make decisions on spending and the allocation of resources. Thomas high school's performance without the ninth grade scores is in line with other charter schools based on type and size. Thomas high school's performance is now high relative to it's spending bracket and budget. 
