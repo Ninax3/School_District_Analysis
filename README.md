@@ -1,4 +1,4 @@
-School District Analysis
+# School District Analysis
 # Overview of the School District Analysis
 
 The school board requested to update the school district analysis on its 15 high schools to include modified teasting scores for Thomas High School (THS) ninth grade students. This is due to suspected score fraud in the original school district analysis for Thomas High School's ninth grade reading and math scores. The analysis removed the scores for ninth grade THS students and recast the average math, average reading, percentage passing for reading and math as well as overall passing percentages. The findings are as follows.
