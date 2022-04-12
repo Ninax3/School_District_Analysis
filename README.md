@@ -20,10 +20,10 @@ Based on the school type and school size, the updated analysis more accurately r
   - See scores based on school type here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/Scores%20School%20Type.png
   - See scores based on school size here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Size.png 
 
-Based on school spending, the performace is lower for schools due to the larger district school's performance bringing down the performance percentages.  
-  - See score based on school spending here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/Scores%20by%20Spending%20Summary.png
-  - See school summary with spending here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/School%20Summary%20with%20Spending%20per%20Student.png
-  - See top schools (charter) and bottom schools (district), here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/High%20Low%20Schools.png
+  Based on school spending, the performace is lower for schools due to the larger district school's performance bringing down the performance percentages.  
+    - See score based on school spending here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/Scores%20by%20Spending%20Summary.png
+    - See school summary with spending here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/School%20Summary%20with%20Spending%20per%20Student.png
+    - See top schools (charter) and bottom schools (district), here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/High%20Low%20Schools.png
 
 - High School to High School Comparison -
 The overall passing percentages among all 15 high schools are relatively in the 90% range. Prior to the changes Thomas High School's overall passing percentage was in the 60%. 
