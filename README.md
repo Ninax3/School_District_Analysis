@@ -18,7 +18,8 @@ The original analysis showed overall passing reading, passing math and passing r
 - School Summary
 Based on the school type and school size, the updated analysis more accurately reflects what the charter and medium sized schools' performance is within the district. 
 See new school summary here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/New%20Per%20School%20Summary%20.png
-See scores based on school type and school size here,  
+See scores based on school type here, https://github.com/Ninax3/School_District_Analysis/blob/main/Resources/Scores%20School%20Type.png
+and by school size here,  
 
 - High School to High School Comparison
 The overall passing percentages among all 15 high schools are relatively in the 90% range. Prior to the changes Thomas High School's overall passing percentage was in the 60%. 
